@@ -1,0 +1,6 @@
+_build
+.vscode
+
+/cpp/bazel*
+/cpp/test.h
+/cpp/test/test.h
